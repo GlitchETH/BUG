@@ -12,7 +12,7 @@ const CollectionConfig: CollectionConfigInterface = {
   contractName: 'Glitch',
   tokenName: 'Glitch',
   tokenSymbol: 'GCT',
-  hiddenMetadataUri: 'ipfs://__CID__/hidden.json',
+  hiddenMetadataUri: 'ipfs://QmXWMR2jEeB99VtMgXdYV6BgcYXKyD4mWpne1eVpKQBQkf/Hidden.json',
   maxSupply: 20,
   whitelistSale: {
     price: 0.05,
@@ -26,7 +26,7 @@ const CollectionConfig: CollectionConfigInterface = {
     price: 0.09,
     maxMintAmountPerTx: 20,
   },
-  contractAddress: "0xD55484E3BfC80BCa94e6C63d274d1fdb1EF84c7a",
+  contractAddress: "0x95941c22b3463fE03A4Bef51D71d7359D2c0F7Ec",
   marketplaceIdentifier: 'Glitch',
   marketplaceConfig: Marketplaces.openSea,
   whitelistAddresses,
